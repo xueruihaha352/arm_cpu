@@ -1,0 +1,6 @@
+# Icarus Verilog build and waveform outputs
+*.vvp
+*.vcd
+
+# macOS metadata
+.DS_Store
