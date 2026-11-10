@@ -45,6 +45,4 @@ gtkwave arm_cpu.vcd
 - `program.hex`：ARM 指令机器码测试程序
 - `tb_arm_single_cycle.v`：自动检查的 testbench
 
-## 许可证
 
-本项目使用 MIT License，版权署名见 `LICENSE` 文件。发布前请将其中的 `[Your Name]` 替换为你的姓名或 GitHub 用户名。
